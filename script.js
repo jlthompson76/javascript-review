@@ -25,7 +25,7 @@ function Person(name, gender, isReal, isAnimated, age) {
     this.age = age;
 };
 
-let blackPanther = new Person("Black Panther", "male", false, 35);
+let blackPanther = new Person("Black Panther", "male", false, 43);
 let garnet = new Person("Garnet", "female", true, 33);
 console.log(blackPanther, garnet);
 

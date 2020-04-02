@@ -1,4 +1,4 @@
-### JS Review
+### JavaScript Review
 
 Some Objects, Object Constructors and Loops Oh My!
 
